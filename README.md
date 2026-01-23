@@ -1,4 +1,4 @@
-# grpctest
+# grpctest [![test](https://github.com/tomasbasham/grpctest/actions/workflows/test.yaml/badge.svg?event=push)](https://github.com/tomasbasham/grpctest/actions/workflows/test.yaml)
 
 A Go module for testing gRPC servers through in-process integration tests. It
 provides a test server that communicates over an in-memory buffer rather than
